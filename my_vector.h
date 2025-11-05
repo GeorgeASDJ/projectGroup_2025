@@ -3,7 +3,7 @@
 
 #include <stdexcept>
 
-namespace kp2024 {
+namespace my_vector {
 
 template <typename T>
 class vector {
@@ -194,6 +194,6 @@ public:
     }
 };
 
-} // namespace kp2024
+}
 
-#endif // MY_VECTOR_H
+#endif
